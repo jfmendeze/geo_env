@@ -1,2 +1,2 @@
 # geo_env
-ErSE 394 Geo Environmental Modeling Analysis
+This repository contains code for ErSE 394 Geo Environmental Modeling Analysis
